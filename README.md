@@ -1,5 +1,6 @@
 # Xios-Theme
 A theme for GNOME based desktop environments
+Modified version of Graphite-Purple-Dark
 
 Requires User-Themes extension:https://extensions.gnome.org/extension/19/user-themes/
 
