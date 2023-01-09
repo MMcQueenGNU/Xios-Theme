@@ -1,5 +1,5 @@
 # Xios-Theme
-A shell theme for GNOME based desktop environments
+A theme for GNOME based desktop environments
 
 Requires User-Themes extension:https://extensions.gnome.org/extension/19/user-themes/
 
